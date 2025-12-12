@@ -1,0 +1,5 @@
+{
+  "name": "BiasBreaker: Political Debate Simulator",
+  "description": "A multi-agent AI system that simulates comprehensive political debates to break confirmation bias. It frames issues, gathers neutral evidence, generates sector-based arguments, performs cross-examinations, and provides a meta-analysis.",
+  "requestFramePermissions": []
+}
